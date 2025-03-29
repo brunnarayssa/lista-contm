@@ -45,7 +45,7 @@ import "../../styles/demo.css";
 					return (
 						<li key={index} className="list-group-item d-flex justify-content-between ">
 							<div className="d-flex align-items-center">
-								<img src="https://picsum.photos/id/64/150/150" 	alt="Contact" className="img-circle"/>
+								<img src="https://i.pravatar.cc/150" 	alt="Contact" className="img-circle"/>
 								<div className="datos-del-contacto ml-3">
 									<h3>{item.name}</h3> 
 									<p>
